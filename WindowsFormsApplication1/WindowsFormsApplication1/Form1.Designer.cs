@@ -36,9 +36,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(70, 41);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(178, 13);
+            this.label1.Size = new System.Drawing.Size(199, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "this is my contribution alex escobido ";
+            this.label1.Text = "this is my contribution fgh+alex escobido ";
             // 
             // Form1
             // 
